@@ -12,7 +12,7 @@ note: adversarial training can prevent early overfitting problem
 
 ### Adversarial training
 The objective function is look like below:   
-<img src="./images/AD_train.png" width="600" align="center">   
+<img src="https://github.com/andrewliao11/PaperNotes/blob/master/images/AD_train.png?raw=true" width="600" align="center">   
 We first train our model(log(y|x;θ)) to recognize the Radv, and linearize the log(y|x;θ) to find the R***adv***, which can break the model the most. ε is the hyperparameter of the scale of perturbations   
 note: the R***adv*** can be iteratively trained to break the model the most.
 
