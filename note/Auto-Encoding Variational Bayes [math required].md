@@ -28,3 +28,8 @@ In section 2.2, the author use the lower bound of the marginal probability to ma
 	- and **```p(z|x)=p(x|z)*p(z)/p(x) ```**   
 - marginal inference: the task of inferring the probability of one variable with a particular value
 - [marginalized likihood](https://en.wikipedia.org/wiki/Marginal_likelihood): some parameter variables (eg. ```z```) have been marginalized out
+
+
+## implementation code
+here's my implementation code in Tensorflow, [link](https://github.com/andrewliao11/VAE-tensorflow.git)
+
