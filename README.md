@@ -10,5 +10,5 @@ some paper notes and my wild thoughts
 - Professor Forcing- A New Algorithm for Training Recurrent Networks
 - Semantic Segmentation using Adversarial Networks
 - Synthesizing the preferred inputs for neurons in neural networks via deep generator networks
-
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)
 
